@@ -1,0 +1,15 @@
+/Users/charlierobb/Code/nodetest/dotnettest/bin/Debug/net6.0/dotnettest
+/Users/charlierobb/Code/nodetest/dotnettest/bin/Debug/net6.0/dotnettest.deps.json
+/Users/charlierobb/Code/nodetest/dotnettest/bin/Debug/net6.0/dotnettest.runtimeconfig.json
+/Users/charlierobb/Code/nodetest/dotnettest/bin/Debug/net6.0/dotnettest.dll
+/Users/charlierobb/Code/nodetest/dotnettest/bin/Debug/net6.0/dotnettest.pdb
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.csproj.AssemblyReference.cache
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.AssemblyInfoInputs.cache
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.AssemblyInfo.cs
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.csproj.CoreCompileInputs.cache
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.dll
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/refint/dotnettest.dll
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.pdb
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/dotnettest.genruntimeconfig.cache
+/Users/charlierobb/Code/nodetest/dotnettest/obj/Debug/net6.0/ref/dotnettest.dll
